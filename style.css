@@ -1,0 +1,27 @@
+.title {
+	font-size: 65px;
+	height: 100%;
+	width: 100%;
+}
+
+.pokemon_pictures {
+	height: 250px;
+	width: 250px;
+}
+.pokemon {
+	font-size: 15px;
+ }
+
+ .pokemon2 {
+
+ 	color: blue;
+ 	background-color: white;
+ 	font-size: 70px;
+ }
+
+ .pokemon3 {
+
+    color: pink;
+    background: purple;
+
+ }
